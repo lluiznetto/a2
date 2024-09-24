@@ -1,0 +1,63 @@
+
+body {
+    background-color: #4c00ff;
+}
+
+body {
+    background-color: #041f77a4;
+    color: white;
+}
+/* código omitido */
+
+body {
+    background-color: #041f77a4;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+}
+
+body {
+    background-color: #041f77a4;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-color: #1D4221;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
+
+body {
+    background-color: #1D4221;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+body {
+    background-color: #15079b;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #0eb6e0;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+}
